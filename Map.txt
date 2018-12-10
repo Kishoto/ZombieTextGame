@@ -1,0 +1,7 @@
+ZB	zom	null	zom	null	null	WP	
+zom	null	null	null	zom	null	null	
+null	null	zom	null	null	null	null	
+HP	WP	null	Start	null	zom	zom	
+null	null	null	WP	null	null	null	
+null	zom	null	null	HP	null	null	
+WP	null	zom	null	HP	null	ZB
